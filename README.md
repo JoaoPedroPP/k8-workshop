@@ -4,7 +4,7 @@
 
 # Uma introdução a containers
 
-Ei, você está procurando um curso de containers 101? Confira nosso[Docker Essentials](https://developer.ibm.com/courses/all/docker-essentials-extend-your-apps-with-containers/).
+Ei, você está procurando um curso de containers 101? Confira nosso [Docker Essentials](https://developer.ibm.com/courses/all/docker-essentials-extend-your-apps-with-containers/).
 
 Containers permitem que você execute aplicativos isolados com segurança com cotas nos recursos do sistema. Os contêineres começaram como um recurso individual entregue com o kernel do Linux. O Docker foi lançado tornando os contêineres fáceis de usar e os desenvolvedores rapidamente aderiram a essa ideia. Os contêineres também despertaram o interesse na arquitetura de microsserviços, um padrão de design para o desenvolvimento de aplicativos em que aplicativos complexos são reduzidos em partes menores e composíveis que funcionam juntas.
 
