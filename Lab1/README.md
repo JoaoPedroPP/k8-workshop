@@ -67,5 +67,4 @@ que já foi criado e enviado ao DockerHub com o nome `ibmcom/guestbook:v1`.
 
 Parabéns, agora você implantou um aplicativo no Kubernetes!
 
-Quando terminar, continue para o
-[next lab of this course](../Lab2/README.md).
+Quando terminar, continue para o [próximo lab](../Lab2/README.md).
