@@ -104,11 +104,11 @@ A infraestrutura do Kubernetes define um recurso para cada finalidade. Cada recu
 * Events fornece eventos de ciclo de vida em pods e outros objetos de implantação
 * Endpoints permite conexões de entrada para alcançar os serviços de cluster
 * Ingress é um conjunto de regras que permite que conexões de entrada alcancem os serviços de cluster
-* Jobs cria um ou mais pods e, à medida que são concluídos com êxito, o @job é marcado como concluído.
+* Jobs cria um ou mais pods e, à medida que são concluídos com êxito, o job é marcado como concluído.
 * Node é uma máquina de trabalho no Kubernetes
 * Namespaces são vários clusters virtuais apoiados pelo mesmo cluster físico
 * Pods são as menores unidades de computação implantáveis ​​que podem ser criadas e gerenciadas no Kubernetes
-* Persistent @Volumes fornece uma API para usuários e administradores que abstrai detalhes de como o armazenamento é fornecido e como é consumido
+* Persistent Volumes fornece uma API para usuários e administradores que abstrai detalhes de como o armazenamento é fornecido e como é consumido
 * Replica Sets garante que um número especificado de réplicas de pod estejam em execução a qualquer momento
 * Secrets destinam-se a conter informações confidenciais, como senhas, tokens OAuth e chaves ssh
 * Service Accounts fornece uma identidade para processos executados em um pod
